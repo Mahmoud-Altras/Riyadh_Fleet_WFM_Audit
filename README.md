@@ -21,4 +21,4 @@ Delivery fleets experience significant financial leakage due to riders manipulat
 
 ## Key Findings
 * Identified a massive operational gap in the North Riyadh Hub, generating a financial leakage of 132,183.58 SAR in a single month due to systemic status manipulation.
-* Successfully pinpointed specific riders responsible for the highest financial damages, isolating them on an operational blacklist for immediate management intervention..
+* Successfully pinpointed specific riders responsible for the highest financial damages, isolating them on an operational blacklist for immediate management intervention.
